@@ -9,8 +9,10 @@ $color-text: white;
 body {
     display: flex;
     justify-content: center;
-    margin-top: 8rem;
+    margin-top: 12rem;
     background-image: url("Frame1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 section {
